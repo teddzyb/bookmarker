@@ -14,4 +14,4 @@ Download the PHP file and run it through XAMPP. Save your websites through the f
 </p>
 
 ## Status
-Complete: September 30, 2021
+Completed: September 30, 2021
